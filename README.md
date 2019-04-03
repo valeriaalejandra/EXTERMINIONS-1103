@@ -1,21 +1,21 @@
 # EXTERMINIONS-1103
 
-**LIDER:**
+## 1.LIDER:
 
-Valeria Vargas
+## 1.1Valeria Vargas
 
-**PROGRAMADOR:**
+## 2.PROGRAMADOR:
 
-Sergio Rosas
+## 2.1Sergio Rosas
 
-**DISEÑADORES:**
+## 3.DISEÑADORES:
 
-Valentina Restrepo
+## 3.1Valentina Restrepo
 
-Sergio Paez
+## 3.2Sergio Paez
 
-**CONSTRUCTORES:**
+## 4.CONSTRUCTORES:
 
-Santiago Rodriguez
+## 4.1Santiago Rodriguez
 
-German Cortez
+## 4.2Germán Cortez

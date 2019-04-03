@@ -1,21 +1,23 @@
 # EXTERMINIONS-1103
 
-## 1.LIDER:
+## 1.INTEGRANTES Y FUNCIONES 
 
-## 1.1Valeria Vargas
+ ### 1.1 LIDER 
+ 
+ #### I. Valeria Vargas 
+ 
+### 1.2 CONSTRUCTORES
 
-## 2.PROGRAMADOR:
+ #### I. Germán Cortes
+ 
+  #### II. Santiago Rodríguez
+ 
+### 1.3 DISEÑADORES
 
-## 2.1Sergio Rosas
+ #### I. Valentina Restrepo 
 
-## 3.DISEÑADORES:
+ #### II. Sergio Andrés Paez
+ 
+### 1.4 PROGRAMADOR
 
-## 3.1Valentina Restrepo
-
-## 3.2Sergio Paez
-
-## 4.CONSTRUCTORES:
-
-## 4.1Santiago Rodriguez
-
-## 4.2Germán Cortez
+  #### I. Sergio Andrés Rosas
